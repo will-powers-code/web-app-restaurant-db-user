@@ -18,11 +18,7 @@
 ## Info
   -  Team Members
         - Carlos Michael Rodriguez
-          - [Github Profile](https://github.com/cmr624/)
-          - [Personal Website](https://www.carlos-michael.com)
         - Will Powers
-          - [Github Profile](https://github.com/willcpo)
-          - [LinkedIn Profile](https://linkedin.com/in/wcp227)
         - Roy Lee
         - Nathalia Lin
 
